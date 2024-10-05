@@ -5,3 +5,5 @@
 📚Libraries Required:
 
 [+] Opencv-Python👁, Deepface👾, Pyserial🔃, Time⏰
+
+Model🧱 is in the form of HTML👩‍💻 document.
